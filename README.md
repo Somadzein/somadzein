@@ -21,6 +21,7 @@ Saya terbiasa menangani berbagai teknologi berikut:
 ## Professional Experience
 **IT Infrastructure & Network Engineer | CV NHT Solution & PT Jaringmas Digital Teknologi**
 *Juli 2023 - Sekarang*
+
 **PT Jaringmas Digital Teknologi (ISP Operations):**
 *   Bertanggung jawab atas operasional dan pemeliharaan infrastruktur IT lintas perusahaan**, mencakup layanan IT Konsultan serta manajemen ISP.
 *   Mengelola infrastruktur jaringan skala ISP, termasuk **pengelolaan server di Data Center Karet (DC Karet)**.
